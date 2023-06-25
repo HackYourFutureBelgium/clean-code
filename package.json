@@ -7,11 +7,10 @@
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell  \"./**\"",
+    "spell-check": "cspell  ./**",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --config ./.markdownlint.jsonc --fix ./ ",
-    "lint:js": "eslint --max-warnings=0 --ext=.js --format=codeframe --format=table",
-    "test": "node --experimental-vm-modules node_modules/.bin/jest --passWithNoTests"
+    "lint:js": "eslint --max-warnings=0 --ext=.js --format=codeframe --format=table"
   },
   "author": "HackYourFutureBelgium",
   "license": "MIT",

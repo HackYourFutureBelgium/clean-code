@@ -1,13 +1,12 @@
 {
   "language": "en",
   "words": [
-    "asdf",
-    "hackyourfuture",
-    "monospace",
-    "Precourse",
-    "distractor",
-    "distractors",
-    "typeof"
+    "Padolsey",
+    "Packt",
+    "creativecommons",
+    "compatiblelicenses",
+    "sublicensable",
+    "waivable"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }
