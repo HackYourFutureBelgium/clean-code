@@ -6,13 +6,13 @@
 
 ## [3- SOLID principles](./3-solid-principles/README.md)
 
-## [4- naming things](./4-naming-things/README.md)
+## [4- Naming things](./4-naming-things/README.md)
 
 ## [5- Design patterns](./5-design-patterns/README.md)
 
 ## [6- Testing code](./6-testing-code/README.md)
 
-## [7- document your code](./7-document-your-code/README.md)
+## [7- Document your code](./7-document-your-code/README.md)
 
 ---
 
