@@ -3,5 +3,3 @@
 <!-- need a thing here -->
 
 ---
-
-## Learning Objectives
