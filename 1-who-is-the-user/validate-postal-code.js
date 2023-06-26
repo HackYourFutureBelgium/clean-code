@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Validate postal code
+ * Validate postal code. Is that a good description or it need to be more explicit?
  * @param {string} postalCode - the postal code to validate
  * @returns {boolean} - the postal code is valid or not
  */
@@ -22,6 +22,11 @@ console.log(validatePostalCode('1000')); // false
   create a new function to validate the Belgian postal code.
 */
 
+/**
+ * Validate postal Belgian postal codes
+ * @param {string} postalCode - the postal code to validate
+ * @returns {boolean} - the postal code is valid or not
+ */
 const validateBelgianPostalCode = (postalCode) => {
   const belgianPostalCodeValidator = /^[0-9]{4}$/;
   return belgianPostalCodeValidator.test(postalCode);
@@ -31,6 +36,6 @@ const validateBelgianPostalCode = (postalCode) => {
 console.log(validateBelgianPostalCode('1000')); // true
 
 /*
-  Now validateBelgianPostalCode is working well with Belgian postal code.
+  Now validateBelgianPostalCode is working well with Belgian postal codes.
   Always you need to keep in mind who the user is
  */
