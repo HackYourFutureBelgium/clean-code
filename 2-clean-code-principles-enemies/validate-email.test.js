@@ -2,6 +2,7 @@
 
 /**
  * validateEmail :  validate email address
+ *
  * @param {string} email- - email to validate
  * @returns {boolean} is true for validate email or false
  */

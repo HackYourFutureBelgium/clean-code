@@ -2,7 +2,8 @@
 
 /**
  * Reverse a string
- * @param {string} [str='']- the string to reversed
+ *
+ * @param {string} [str=''] the string to reversed
  * @returns {string} - the reversed string
  */
 const reverseString1 = (str = '') => {
