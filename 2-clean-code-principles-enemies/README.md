@@ -5,7 +5,7 @@
 ### Reliability
 
 - a reliable code means it is `correct` , `stable` and `resilient`.
-  
+
 #### correct
 
 - the code is considered correct it is able to fulfill the requirements
@@ -33,6 +33,17 @@
 - [space](./space.test.js)
 
 ### Maintainability
+
+- Maintainability is the ease to make change to your code. Maintainable code
+  related to `adaptability` and `familiarity`.
+
+#### adaptability
+
+- means your code will be able to adapt to different needs and environnement.
+- your code can't be adaptive forever, simply because we can't see all the
+  probabilities and new requirements will be needed.
+
+#### familiarity
 
 ### Usability
 

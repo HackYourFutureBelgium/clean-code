@@ -7,11 +7,11 @@ humans?
 
 */
 const average1 = (arr) => {
-  let s = 0;
-  for (let n of arr) {
-    s += n;
-  }
-  return s / arr.length;
+    let s = 0;
+    for (let n of arr) {
+        s += n;
+    }
+    return s / arr.length;
 };
 
 console.log(average1([1, 2, 3, 4, 5, 6, 7]));
@@ -22,14 +22,14 @@ console.log(average1([1, 2, 3, 4, 5, 6, 7]));
  * @returns  the average of all numbers in arr
  */
 const average2 = (arr) => {
-  let sumOfNumbers = 0;
-  const arrLength = arr.length;
+    let sumOfNumbers = 0;
+    const arrLength = arr.length;
 
-  for (const num of arr) {
-    sumOfNumbers += num;
-  }
+    for (const num of arr) {
+        sumOfNumbers += num;
+    }
 
-  return sumOfNumbers / arrLength;
+    return sumOfNumbers / arrLength;
 };
 
 console.log(average2([1, 2, 3, 4, 5, 6, 7]));

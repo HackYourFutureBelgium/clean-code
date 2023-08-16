@@ -4,15 +4,17 @@
 let us declare multiple variables
 */
 
-const firstName1 = 'John', lastName1 = 'Doe', age1 = 30, profession1 = 'programmer';
+const firstName1 = 'John',
+    lastName1 = 'Doe',
+    age1 = 30,
+    profession1 = 'programmer';
 
 console.log(firstName1, lastName1, age1, profession1);
 
-
-const firstName2  = 'John', 
-      lastName2   = 'Doe', 
-      age2        = 30, 
-      profession2 = 'programmer';
+const firstName2 = 'John',
+    lastName2 = 'Doe',
+    age2 = 30,
+    profession2 = 'programmer';
 
 console.log(firstName2, lastName2, age2, profession2);
 
